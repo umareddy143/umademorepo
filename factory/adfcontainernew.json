@@ -1,0 +1,9 @@
+{
+	"name": "adfcontainernew",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fa78435b-feaa-4b9f-895b-86520878878e",
+		"tenantId": "45781d84-7f09-4346-8cd5-bc2324267df8"
+	}
+}
